@@ -1,4 +1,4 @@
-package gohello
+package main
 
 import "fmt"
 
